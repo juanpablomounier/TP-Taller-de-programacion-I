@@ -1,0 +1,22 @@
+ai_health_employment/
+│
+├── datos/
+│   ├── crudos/
+│   │   └── ai_job_replacement.xlsx
+│   │
+│   └── limpios/
+│       └── ai_job_replacement_limpio.xlsx
+│
+├── modulos/
+│   ├── cargar_archivo.py
+│   ├── limpiar_dataframe.py
+│   ├── analisis.py
+│   ├── visualizacion.py
+│
+├── salida/
+│   ├── figuras/
+│   └── reportes/
+│
+├── main.py
+│
+└── README.md
